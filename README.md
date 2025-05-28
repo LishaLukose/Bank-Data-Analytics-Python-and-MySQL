@@ -13,6 +13,7 @@ derivation using SQL queries.
 ## Dataset
 
 - **Raw Excel Data**: `Bank Data Analytics.xlsx`
+- **Cleaned CSV Data**: `BankData.csv`
 
 ## Tools & Technologies
 
